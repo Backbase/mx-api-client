@@ -27,7 +27,7 @@
 
         <!-- Plugin Versions -->
         <maven-checkstyle-plugin.version>3.1.0</maven-checkstyle-plugin.version>
-        <puppycrawl.version>8.23</puppycrawl.version>
+        <puppycrawl.version>8.29</puppycrawl.version>
         <gmavenplus-plugin.version>1.12.1</gmavenplus-plugin.version>
         <maven-surefire-plugin.version>3.0.0-M5</maven-surefire-plugin.version>
         <jacoco-maven-plugin.version>0.8.7</jacoco-maven-plugin.version>
